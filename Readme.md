@@ -1,7 +1,7 @@
 # Question 1
 There is an equation:
 
-![](.Readme_imgages/a4.png)
+![](.Readme_images/a4.png)
 
 The code in `main.cpp` will find all values matches this eqation for 
 
